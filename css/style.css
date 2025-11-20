@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: 1.6rem Arial, Helvetica, sans-serif;
+    background: radial-gradient(circle,rgb(225, 221, 221),rgb(179, 214, 245)); 
+    text-align:center;
+}
+
+img{
+    width:70%;
+    height:70%;
+}
